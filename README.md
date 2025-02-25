@@ -113,6 +113,6 @@ Hotel perlu proaktif mengelola pembatalan dan meningkatkan strategi manajemen un
 * Implementasikan *actionable insight* secara bertahap di lingkungan hotel nyata, dimulai dengan uji coba terbatas dan *monitoring* ketat.
 * Terus kumpulkan data dan lakukan evaluasi berkala untuk mengoptimalkan model dan strategi *overbooking* seiring waktu.
 
-## Link Tableau Dashboard:
-[Tableau Dashboard](https://public.tableau.com/app/profile/rico.martin.sitorus/viz/Hotel_Booking_Demand_17403310873720/Market_Overview?publish=yes)
+## Link Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/rico.martin.sitorus/viz/Hotel_Booking_Demand_17403310873720/Market_Overview?publish=yes)
+
 

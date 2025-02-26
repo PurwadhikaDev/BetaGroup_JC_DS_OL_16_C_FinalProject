@@ -44,7 +44,7 @@ Proyek ini terdiri dari beberapa bagian utama:
 
 **Latar Belakang:**
 
-Dalam industri perhotelan yang kompetitif, permintaan pemesanan kamar merupakan faktor kunci keberhasilan operasional. Kemampuan untuk memprediksi fluktuasi dan pola permintaan sangat penting untuk optimalisasi pendapatan dan stabilitas tingkat okupansi. Prediksi permintaan yang akurat memungkinkan hotel untuk memaksimalkan pendapatan dan mengurangi risiko kerugian akibat kamar kosong.
+Dalam industri perhotelan yang kompetitif, permintaan pemesanan kamar adalah kunci keberhasilan, namun pembatalan menjadi tantangan utama, terutama saat musim ramai.  Kemampuan memprediksi permintaan sangat penting untuk optimalisasi pendapatan dan tingkat hunian stabil, tetapi pembatalan pemesanan di muka dan ketidakhadiran tamu mengancam upaya ini. Hotel dengan tingkat okupansi tinggi bisa sangat merugi akibat tingkat pembatalan tinggi karena kehilangan potensi pendapatan maksimal, tetap menanggung biaya operasional tetap, kehilangan peluang pendapatan tambahan, dan mengalami gangguan operasional. Oleh karena itu, prediksi pembatalan yang akurat dan manajemen pembatalan proaktif sangat krusial bagi hotel untuk meminimalkan kerugian dan mengoptimalkan pendapatan serta operasional.
 
 **Tantangan:**
 
